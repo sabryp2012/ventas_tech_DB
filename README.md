@@ -1,2 +1,2 @@
-# ventas_tech_DB
+# ventas_tech_DB.sql
 Modulo 3 ventas tech 
